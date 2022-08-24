@@ -1,7 +1,0 @@
-{
-  "name": "learn-ionic-angular",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
